@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_gaming_v-list-item__content</name>
+   <tag></tag>
+   <elementGuidId>9818c81c-88b9-4e58-9a3f-c7660cd5286b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-2988-70']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#list-item-2988-70 > div.v-list-item__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f150ba4-f692-4e6f-ab49-1d953632386f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__content</value>
+      <webElementGuid>8b2d4fd5-3eb1-442d-8cae-d815fdf26f7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-2988-70&quot;)/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>fedaeea0-1652-4c0e-b894-b8a23f2c9a90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-item-2988-70']/div</value>
+      <webElementGuid>1fb11a4e-13cd-4733-8494-c2c9492a0490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gaming'])[45]/following::div[14]</value>
+      <webElementGuid>0093cc14-197a-4c0c-b031-6df49ef962fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gamingo'])[5]/following::div[17]</value>
+      <webElementGuid>ca414902-f24e-448c-83da-e482c21a79b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gaming'])[46]/preceding::div[2]</value>
+      <webElementGuid>4c012f58-b3e5-4217-a24f-b06c87ad71fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gamingo'])[6]/preceding::div[5]</value>
+      <webElementGuid>b928d610-52f9-4a0b-bbc7-cce4b581b84e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[71]/div</value>
+      <webElementGuid>08ebf543-436a-4f3a-ad47-dbdad7ef149b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
