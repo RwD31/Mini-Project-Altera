@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Register/RG_1/i_AltaShop_v-icon no
 
 WebUI.click(findTestObject('Object Repository/Register/RG_1/a_Register'))
 
-WebUI.setText(findTestObject('Object Repository/Register/RG_1/input_Nama Lengkap_input-1021'), 'Budi Hartanto')
+WebUI.setText(findTestObject('Object Repository/Register/Page_frontend-web/input_Nama Lengkap_input-1486'), 'Budi Hartanto')
 
 WebUI.click(findTestObject('Object Repository/Register/RG_1/div_Email'))
 

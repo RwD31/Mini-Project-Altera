@@ -21,19 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alta-shop.vercel.app/')
 
-WebUI.click(findTestObject('Object Repository/Category/Page_frontend-web/button_AltaShop_v-btn v-btn--icon v-btn--ro_febe25'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Category/Page_frontend-web/input_Email_input-1010'), 'Budi123@email.com')
+WebUI.setText(findTestObject('null'), 'Budi123@email.com')
 
-WebUI.setText(findTestObject('Object Repository/Category/Page_frontend-web/input_Password_input-1013'), 'budi123')
+WebUI.setText(findTestObject('null'), 'budi123')
 
-WebUI.sendKeys(findTestObject('Object Repository/Category/Page_frontend-web/input_Password_input-1013'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Category/Page_frontend-web/span_Login'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Category/Page_frontend-web/div_AltaShop_v-select__selections'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Category/Page_frontend-web/div_gaming_v-list-item__content'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Category/Page_frontend-web/div_Products is empty'), 0)
+WebUI.verifyElementPresent(findTestObject('null'), 0)
 

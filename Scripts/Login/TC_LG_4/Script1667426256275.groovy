@@ -17,19 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://alta-shop.vercel.app/')
 
-WebUI.navigateToUrl('https://alta-shop.vercel.app/')
+WebUI.click(findTestObject('Object Repository/Login/Page_frontend-web/span_AltaShop_v-btn__content'))
 
-WebUI.click(findTestObject('Object Repository/Login/LG_4/button_AltaShop_v-btn v-btn--icon v-btn--ro_febe25'))
+WebUI.setText(findTestObject('null'), 'Budi123@email.com')
 
-WebUI.setText(findTestObject('Object Repository/Login/LG_4/input_Email_input-1010'), 'budi123@email.com')
+WebUI.setText(findTestObject('null'), 'budiganteng123')
 
-WebUI.setText(findTestObject('Object Repository/Login/LG_4/input_Password_input-1013'), 'budiganteng123')
+WebUI.click(findTestObject('Object Repository/Login/Page_frontend-web/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Login/LG_4/span_Login'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Login/LG_4/div_record not found'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_frontend-web/div_email or password is invalid'), 4)
 
 WebUI.closeBrowser()
 

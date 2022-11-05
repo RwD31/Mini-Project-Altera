@@ -3,15 +3,15 @@
    <description></description>
    <name>div_gaming_v-list-item__content</name>
    <tag></tag>
-   <elementGuidId>9818c81c-88b9-4e58-9a3f-c7660cd5286b</elementGuidId>
+   <elementGuidId>7e864471-4dac-4115-a45e-f98b7e1b2d7b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='list-item-2988-70']/div</value>
+         <key>CSS</key>
+         <value>#list-item-1452-70 > div.v-list-item__content</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#list-item-2988-70 > div.v-list-item__content</value>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-1452-70']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>5f150ba4-f692-4e6f-ab49-1d953632386f</webElementGuid>
+      <webElementGuid>263d5865-a14b-4e16-9f7f-285a79f354e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,23 @@
       <name>class</name>
       <type>Main</type>
       <value>v-list-item__content</value>
-      <webElementGuid>8b2d4fd5-3eb1-442d-8cae-d815fdf26f7c</webElementGuid>
+      <webElementGuid>81a6f809-7d32-4178-a5e2-231519689534</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;list-item-2988-70&quot;)/div[@class=&quot;v-list-item__content&quot;]</value>
-      <webElementGuid>fedaeea0-1652-4c0e-b894-b8a23f2c9a90</webElementGuid>
+      <value>id(&quot;list-item-1452-70&quot;)/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>88fc34ab-db20-4555-9c6e-ff58df88dab5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='list-item-2988-70']/div</value>
-      <webElementGuid>1fb11a4e-13cd-4733-8494-c2c9492a0490</webElementGuid>
+      <value>//div[@id='list-item-1452-70']/div</value>
+      <webElementGuid>63deeb27-f8aa-4146-a1e9-9f0f667d0ea4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='gaming'])[45]/following::div[14]</value>
-      <webElementGuid>0093cc14-197a-4c0c-b031-6df49ef962fb</webElementGuid>
+      <webElementGuid>56c3c2bf-860a-40c1-8074-752b7b020dd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='gamingo'])[5]/following::div[17]</value>
-      <webElementGuid>ca414902-f24e-448c-83da-e482c21a79b2</webElementGuid>
+      <webElementGuid>d5e1332a-9541-460f-a32c-3499d1bb0584</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='gaming'])[46]/preceding::div[2]</value>
-      <webElementGuid>4c012f58-b3e5-4217-a24f-b06c87ad71fd</webElementGuid>
+      <webElementGuid>cebe5a32-beda-43fc-a18e-0ae297f1952e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,14 +78,14 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='gamingo'])[6]/preceding::div[5]</value>
-      <webElementGuid>b928d610-52f9-4a0b-bbc7-cce4b581b84e</webElementGuid>
+      <webElementGuid>7b03b0dc-c6c7-4533-b2c9-68e5a4ce96a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[71]/div</value>
-      <webElementGuid>08ebf543-436a-4f3a-ad47-dbdad7ef149b</webElementGuid>
+      <value>//div[71]/div</value>
+      <webElementGuid>54db7ab9-10af-4730-beb5-7003edf75f8c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

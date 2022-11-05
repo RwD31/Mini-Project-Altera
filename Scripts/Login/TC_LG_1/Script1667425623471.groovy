@@ -17,19 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://alta-shop.vercel.app/')
 
-WebUI.navigateToUrl('https://alta-shop.vercel.app/')
+WebUI.click(findTestObject('Object Repository/Login/Page_frontend-web/span_AltaShop_v-btn__content'))
 
-WebUI.click(findTestObject('Object Repository/Login/LG_1/button_AltaShop_v-btn v-btn--icon v-btn--ro_febe25'))
+WebUI.setText(findTestObject('Login/Page_frontend-web/input_Email_input-1472'), 'Budi123@email.com')
 
-WebUI.setText(findTestObject('Object Repository/Login/LG_1/input_Email_input-1010'), 'Budi123@email.com')
+WebUI.setText(findTestObject('Login/Page_frontend-web/input_Password_input-1475'), 'budi123')
 
-WebUI.setText(findTestObject('Object Repository/Login/LG_1/input_Password_input-1013'), 'budi123')
-
-WebUI.click(findTestObject('Object Repository/Login/LG_1/button_Login'))
-
-WebUI.navigateToUrl('https://alta-shop.vercel.app/')
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Login/Page_frontend-web/button_Login'))
 

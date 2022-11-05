@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alta-shop.vercel.app/')
 
-WebUI.click(findTestObject('Object Repository/Category/Page_frontend-web/div_AltaShop_v-select__selections'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Category/Page_frontend-web/div_gaming'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Category/Page_frontend-web/div_Products is empty'), 0)
+WebUI.verifyElementPresent(findTestObject('null'), 0)
 
-WebUI.click(findTestObject('Object Repository/Category/Page_frontend-web/button_gaming_v-icon notranslate v-icon--li_c78751'))
+WebUI.click(findTestObject('null'))
 

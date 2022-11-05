@@ -3,15 +3,15 @@
    <description></description>
    <name>button_gaming_v-icon notranslate v-icon--li_c78751</name>
    <tag></tag>
-   <elementGuidId>a48d56e6-238d-4e23-bc4d-03ab9299c590</elementGuidId>
+   <elementGuidId>cecec599-d493-4e81-ad28-f8aff5cb5f82</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.v-icon.notranslate.v-icon--link.fas.fa-times-circle.theme--light.primary--text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>665e303c-eecb-4fba-bd61-39e3c088b219</webElementGuid>
+      <webElementGuid>09a518f2-1eee-461c-bce1-bc2025761548</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f7237f31-cb3a-476d-8650-4975a512a929</webElementGuid>
+      <webElementGuid>6b93dfed-dc3f-433c-ba15-8b679820e66a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>clear icon</value>
-      <webElementGuid>9149fe89-e2c7-4e51-92fc-1649c29586d1</webElementGuid>
+      <webElementGuid>76233ba1-af51-46f2-8729-8ce4e0cc72fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-icon notranslate v-icon--link  fas fa-times-circle theme--light primary--text</value>
-      <webElementGuid>d3814a70-e388-43c5-8c14-2fedcc519c8e</webElementGuid>
+      <webElementGuid>0d0494a1-971a-40ff-a63a-59c9baaea3c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;v-input v-input--is-label-active v-input--is-dirty v-input--is-focused theme--light v-text-field v-text-field--single-line v-text-field--solo v-text-field--is-booted v-text-field--enclosed v-select primary--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-select__slot&quot;]/div[@class=&quot;v-input__append-inner&quot;]/div[@class=&quot;v-input__icon v-input__icon--clear&quot;]/button[@class=&quot;v-icon notranslate v-icon--link  fas fa-times-circle theme--light primary--text&quot;]</value>
-      <webElementGuid>e59d38dc-1c02-4a24-a3d0-a4f687e9a63e</webElementGuid>
+      <webElementGuid>97ba7992-f461-4438-b645-acfde667d308</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>50bf3de8-c1c3-4902-8e06-0c951971eb67</webElementGuid>
+      <webElementGuid>4b9c8cdb-9627-462f-9ad5-0514da6b9146</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/main/div/div/div/div/div/div/div[2]/div/button</value>
-      <webElementGuid>b41af255-db66-49f6-8d64-a8af5d23dc28</webElementGuid>
+      <webElementGuid>2e71a5bf-a187-422b-bc95-26e883b57032</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>1c40d007-edc7-4d9e-813d-85d4def86ef6</webElementGuid>
+      <webElementGuid>f995c550-3fbb-45a0-ab28-c1ceef6de2f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>1e29d0c0-f9a5-4410-839a-068c36d9a724</webElementGuid>
+      <webElementGuid>7e76d281-91fd-4e2c-9339-3cbcc844d1dc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

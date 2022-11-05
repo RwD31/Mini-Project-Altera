@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Products is empty</name>
    <tag></tag>
-   <elementGuidId>96b8924d-fa65-4519-9695-af3ded565b22</elementGuidId>
+   <elementGuidId>ff12b049-495c-4080-9844-e0f52fea70b9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/main/div/div/div[2]/div/div</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>div.v-alert__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[2]/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>fc16957d-9fb5-4310-b76a-e21c90e258f4</webElementGuid>
+      <webElementGuid>c2546ba5-fe42-4d41-8a0b-572cea1ec96c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-alert__content</value>
-      <webElementGuid>b5482e37-4182-4bb5-879f-1226fdd49a82</webElementGuid>
+      <webElementGuid>48f65090-2792-472b-a7cb-251a8ecd0612</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Products is empty! </value>
-      <webElementGuid>b2c3205e-b0b9-4cee-86f9-fb03bc456af7</webElementGuid>
+      <webElementGuid>7a0632b0-1aca-4a26-bd96-53c4bcdb4ac2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;v-alert v-sheet theme--light elevation-2 v-alert--border v-alert--border-top&quot;]/div[@class=&quot;v-alert__wrapper&quot;]/div[@class=&quot;v-alert__content&quot;]</value>
-      <webElementGuid>a9afdeb4-30f8-4734-840b-00b46bd8a727</webElementGuid>
+      <webElementGuid>17942b4f-5a4c-401c-b835-b98531f1e851</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/main/div/div/div[2]/div/div</value>
-      <webElementGuid>240ab9b2-db74-454b-b7c2-fc90a01963d8</webElementGuid>
+      <webElementGuid>49e53c2a-32b8-4cf1-aef6-a528ae22a674</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='gaming'])[1]/following::div[11]</value>
-      <webElementGuid>01168019-a253-4206-a411-9d188fa00073</webElementGuid>
+      <webElementGuid>c30ab775-7ec5-4c49-a672-b694e6cf9462</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AltaShop'])[1]/following::div[20]</value>
-      <webElementGuid>87861edf-9cbf-4215-bba4-fe75bd9d3585</webElementGuid>
+      <webElementGuid>149a6124-8824-4bd0-8607-b5b4d469b010</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='gaming'])[2]/preceding::div[2]</value>
-      <webElementGuid>494e6810-6f5d-4cc3-8434-9c41c20c9d01</webElementGuid>
+      <webElementGuid>c6baf05c-8898-40fe-b1a6-16fb5b3ff70b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='gaming'])[3]/preceding::div[5]</value>
-      <webElementGuid>19f7d4d7-735f-4a25-92d7-305e07d33a89</webElementGuid>
+      <webElementGuid>de13c2bd-fdb4-46ba-be39-2a5f1cae46aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Products is empty!']/parent::*</value>
-      <webElementGuid>72bdd083-993a-4d78-81db-b0473271e1e4</webElementGuid>
+      <webElementGuid>5f0b42a5-9037-4a4c-a8ab-1698dd09a37a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div/div</value>
-      <webElementGuid>77317540-485a-4e3e-b80e-604f250cea6e</webElementGuid>
+      <webElementGuid>80eaa9e3-1dd3-487d-a22d-c0793a68fa59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Products is empty! ' or . = ' Products is empty! ')]</value>
-      <webElementGuid>2973a2de-e3b6-4ee2-b0af-c5a29b737829</webElementGuid>
+      <webElementGuid>76184c77-cac3-4b30-91be-4f5971e24777</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

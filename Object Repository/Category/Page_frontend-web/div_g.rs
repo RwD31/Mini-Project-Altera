@@ -3,15 +3,15 @@
    <description></description>
    <name>div_g</name>
    <tag></tag>
-   <elementGuidId>a9705556-92cd-4d95-a65c-1b8ecb96d739</elementGuidId>
+   <elementGuidId>573844d2-41e6-47ba-8603-e2ca68d75e7d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='list-item-2988-44']/div</value>
+         <key>CSS</key>
+         <value>#list-item-1452-44 > div.v-list-item__content</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#list-item-2988-44 > div.v-list-item__content</value>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-1452-44']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3df7698d-cb0f-44e3-86e7-1c92340adeb3</webElementGuid>
+      <webElementGuid>8a648128-ae0e-485e-a0dd-fd4c797137a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-list-item__content</value>
-      <webElementGuid>717b12c1-5a77-4d0c-824a-a3e463f556d8</webElementGuid>
+      <webElementGuid>9a00e7bd-b833-4163-a5ad-b657164296f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,23 +38,23 @@
       <name>text</name>
       <type>Main</type>
       <value>g</value>
-      <webElementGuid>77dfd2e8-1108-499d-8ebd-3e945ed2549d</webElementGuid>
+      <webElementGuid>970713bb-b8f9-47ef-8725-e8581ad240d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;list-item-2988-44&quot;)/div[@class=&quot;v-list-item__content&quot;]</value>
-      <webElementGuid>ca240142-2c24-4053-8ba8-b218e181384f</webElementGuid>
+      <value>id(&quot;list-item-1452-44&quot;)/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>e7644611-bd6a-4e7b-8778-b580f9a62036</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='list-item-2988-44']/div</value>
-      <webElementGuid>879761ca-374d-4078-9b59-69708f1a60bf</webElementGuid>
+      <value>//div[@id='list-item-1452-44']/div</value>
+      <webElementGuid>c55f3d52-342e-4a38-9a43-c7f8c7bc948d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='gaming'])[37]/following::div[2]</value>
-      <webElementGuid>56b3b6e6-927a-4cdc-a796-30f621c48c36</webElementGuid>
+      <webElementGuid>9330adc6-dd5d-4623-82dc-a41152ab55af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='game'])[2]/following::div[5]</value>
-      <webElementGuid>9db4a63d-6df7-4062-93a8-642b0cbb17d6</webElementGuid>
+      <webElementGuid>f323bbb0-465a-4a97-87d1-350beb14d0e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='book'])[3]/preceding::div[2]</value>
-      <webElementGuid>ac30b590-6bae-4fc8-946b-65918bd865fa</webElementGuid>
+      <webElementGuid>71d17947-8a69-4961-8ede-5e7f491ce674</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[45]/div</value>
-      <webElementGuid>9ed0ab32-a526-4fd0-8910-d0811165acec</webElementGuid>
+      <webElementGuid>06a29e00-9bad-4f32-9e34-fecb8e26bd99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'g' or . = 'g')]</value>
-      <webElementGuid>de17a761-ff38-4535-a5c7-2452d499822f</webElementGuid>
+      <webElementGuid>699a25b8-60fe-41b0-903a-ae17ee78cc4e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
